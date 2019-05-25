@@ -1,0 +1,25 @@
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS_Connect.Form1.resources
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS_Connect.Properties.Resources.resources
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS Connect.csproj.GenerateResource.cache
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS Connect.csproj.CoreCompileInputs.cache
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\Ionic.Zlib.dll
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\PackageIO.dll
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS Connect.csprojAssemblyReference.cache
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS Connect.csproj.CopyComplete
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\DiscordRPC.dll
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\DiscordRPC.pdb
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\DiscordRPC.xml
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS_Connect.Form2.resources
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS_Connect.Form3.resources
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\ps3tmapi_net.dll
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\MW2Lib.dll
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\PS3Lib.dll
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\PS Connect.exe.config
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\PS Connect.exe
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\PS Connect.pdb
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS Connect.exe
+C:\Users\Brad\source\repos\PS Connect\obj\Debug\PS Connect.pdb
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\Brad\source\repos\PS Connect\bin\Debug\CoDLibrary.dll
